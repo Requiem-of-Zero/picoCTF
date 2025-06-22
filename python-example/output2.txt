@@ -1,0 +1,4 @@
+The following number is less than 5
+0
+The following number is less than 5
+1
